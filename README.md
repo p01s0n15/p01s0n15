@@ -14,6 +14,7 @@
 
 <h3 align="center">Quick Facts</h3>
 <ul>
+    <li>TOP 0.5% METI</li>
     <li>🔭 I am a passionate learner.</li>
     <li>🕸️ Check out my <a href="https://mehffine.carrd.co">Cardd</a>.</li>
 </ul>
